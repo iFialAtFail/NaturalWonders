@@ -3,17 +3,8 @@ html {
 }
 
 body {
-    background: url("../images/ian-schneider-TamMbr4okv4-unsplash.jpg");
+    background-image: url("../images/david-marcu-78A265wPiO4-unsplash.jpg");
     background-size: cover;
     background-position: top;
     height:100%;
-}
-
-.content{
-    margin-top: 6rem;
-    background-color: rgba(17, 135, 204, 0.4);
-}
-
-p {
-    text-shadow: 2px 2px #ffffff;
 }
