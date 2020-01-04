@@ -1,0 +1,16 @@
+html {
+    height:100%;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1560961911-dd5c0bdd004a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2767&q=80");
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    height:100%;
+    
+    
+}
+main {
+    padding-top: 70px;
+  }
