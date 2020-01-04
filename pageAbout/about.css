@@ -1,0 +1,12 @@
+html {
+    height:100%;
+}
+
+body {
+    background-image: url("../images/david-marcu-78A265wPiO4-unsplash.jpg");
+    background-size: cover;
+    background-position: top;
+    height:100%;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
